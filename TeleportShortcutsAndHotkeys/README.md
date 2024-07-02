@@ -1,4 +1,9 @@
-# Teleport Shortcuts & Hotkeys
+# Teleport Shortcuts & Hotkeys (koziolek's fork)
+
+Fork of: https://mods.factorio.com/mod/TeleportShortcutsAndHotkeys
+
+-----
+
 A mod for the game Factorio.
 
 Adds shortcut bar entries to teleport the player or their vehicle to anywhere on the map. Destinations must be valid, but in "Alt-mode" (i.e. while displaying additional entity data) collisions and terrain will be ignored.

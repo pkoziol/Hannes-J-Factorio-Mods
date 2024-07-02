@@ -1,4 +1,4 @@
-local mod_path = "__TeleportShortcutsAndHotkeys__/"
+local mod_path = "__TeleportShortcutsAndHotkeysKozioleksFork__/"
 
 local chr = data.raw.character.character
 
